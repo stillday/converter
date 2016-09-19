@@ -13,7 +13,7 @@ while True:
         print "Gib bitte eine Zahl ein"
 
     answer = "ja"
-    ask = raw_input("Moechtest du noch weitere Kilometer umrechnen? ja oder nein! ") .lower()
+    ask = raw_input("Moechtest du noch weitere Kilometer umrechnen? ja oder nein! ").lower()
 
     if  ask != answer:
         print "Danke fürs verwenden und auf wiedersehen"
